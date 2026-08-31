@@ -1,42 +1,9 @@
-# UNP Classification Machine Learning
+I did this classification project in collaboration with UNP, where we used data analysis and machine learning techniques to understand customer responses to bank marketing campaigns. The main aim of the project was to transform raw customer data into meaningful insights and develop a predictive model that could support better marketing and business decisions.
+In this project, we analyzed various customer and campaign-related factors such as age, job, education, marital status, account balance, and previous campaign responses. We first performed data cleaning and preprocessing to prepare the dataset for analysis. Exploratory Data Analysis (EDA) was then carried out to identify important patterns, relationships, and trends in customer behavior.
+For the classification process, we developed and compared three machine learning models: Logistic Regression, Decision Tree, and Random Forest. The models were evaluated using performance measures such as accuracy, precision, recall, F1-score, and ROC-AUC. Among the models, Random Forest provided the best overall performance, making it the most effective model for predicting customer responses.
+The analysis helped us understand the factors that influence whether a customer is likely to respond positively to a bank marketing campaign. These insights can help businesses target potential customers more effectively, improve marketing strategies, reduce unnecessary costs, and increase campaign success.
+This project gave us practical experience in data preprocessing, exploratory analysis, classification, model evaluation, and interpreting machine learning results. Overall, it was a valuable learning experience that demonstrated how machine learning can be applied to real-world business problems and support smarter, data-driven decision-making.
 
-## Project Overview
-This project focuses on building and evaluating classification machine learning models using Python and Google Colab.
-
-The objective is to analyze the dataset, preprocess the data, build classification models, and evaluate their performance using different classification metrics.
-## Dataset
-
-The dataset is used to train and test machine learning classification models.
-
-The data was divided into training and testing sets to evaluate how well the models perform on unseen data.
-## Machine Learning Models
-
-The following classification models were implemented:
-
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- K-Nearest Neighbors (KNN)
-## Tools and Technologies
-
-- Python
-- Google Colab
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-## Model Evaluation
-The models were evaluated using the following performance metrics:
-
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Confusion Matrix
 ## Google Colab Notebook
 [Click here to view the Google Colab Notebook]
 (https://colab.research.google.com/drive/1dhuXiQaUW4ucPF2tzEkL8LnWtTiFGCoX?usp=sharing)
-
-## Conclusion
-The classification models were compared based on their performance metrics to identify the model that provides the best results for the given dataset.
