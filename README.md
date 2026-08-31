@@ -1,7 +1,11 @@
 I did this classification project in collaboration with UNP, where we used data analysis and machine learning techniques to understand customer responses to bank marketing campaigns. The main aim of the project was to transform raw customer data into meaningful insights and develop a predictive model that could support better marketing and business decisions.
+
 In this project, we analyzed various customer and campaign-related factors such as age, job, education, marital status, account balance, and previous campaign responses. We first performed data cleaning and preprocessing to prepare the dataset for analysis. Exploratory Data Analysis (EDA) was then carried out to identify important patterns, relationships, and trends in customer behavior.
+
 For the classification process, we developed and compared three machine learning models: Logistic Regression, Decision Tree, and Random Forest. The models were evaluated using performance measures such as accuracy, precision, recall, F1-score, and ROC-AUC. Among the models, Random Forest provided the best overall performance, making it the most effective model for predicting customer responses.
+
 The analysis helped us understand the factors that influence whether a customer is likely to respond positively to a bank marketing campaign. These insights can help businesses target potential customers more effectively, improve marketing strategies, reduce unnecessary costs, and increase campaign success.
+
 This project gave us practical experience in data preprocessing, exploratory analysis, classification, model evaluation, and interpreting machine learning results. Overall, it was a valuable learning experience that demonstrated how machine learning can be applied to real-world business problems and support smarter, data-driven decision-making.
 
 ## Google Colab Notebook
